@@ -1,0 +1,138 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://sites.google.com/view/lunomosikvid",
+	  "email_feedback_and_report": "lynoku.square7@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "0",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "applovin_max",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#887291089496705_887291799496634",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#887291089496705_887291872829960",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#887291089496705_887291979496616",
+      "startapp_app_id": "0",
+      "unity_game_id": "180600305",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "0",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 2,
+      "native_ad_index": 1,
+      "native_ad_interval": 5,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Prueba de embarazo guía",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/tespek%2FBannerpruba.png?alt=media&token=fec54cf4-3a3d-4cbb-810f-3af979d0c284&_gl=1*1syg5r5*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5ODUwNzExMy40NC4xLjE2OTg1MDg0NzkuNjAuMC4w"
+    }
+  ],
+  "posts": [{
+      "id": 1,
+      "category": "Prueba de embarazo guía",
+      "title": "Prueba de Embarazo en Casa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/x8ultra%2Fx1.JPG?alt=media&token=65127aab-fc5b-4769-b432-5506b62a7c1e&_gl=1*jtp7il*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5Nzg5MTQ0MS40MC4xLjE2OTc4OTE2MDQuMjIuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/tespek%2F1%20Prueba%20de%20Embarazo%20en%20Casa.html?alt=media&token=2c6fe1c4-6133-448e-b377-ee32c650cb16&_gl=1*1hz5cix*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5ODUwNzExMy40NC4xLjE2OTg1MDg1MDUuMzQuMC4w",
+      "video": ""
+    },{
+      "id": 2,
+      "category": "Prueba de embarazo guía",
+      "title": "Test de Embarazo Cuándo Hacerlo y Cómo Interpretar los Resultados",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/x8ultra%2Fx2.jpg?alt=media&token=fa62ab21-1e4c-4b0e-a743-2e1735d1ce27&_gl=1*xwl8i8*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5Nzg5MTQ0MS40MC4xLjE2OTc4OTE2NTEuMzkuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/tespek%2F2%20Test%20de%20Embarazo%20Cu%C3%A1ndo%20Hacerlo%20y%20C%C3%B3mo%20Interpretar%20los%20Resultados.html?alt=media&token=f446f1d5-5817-4218-94c6-658aa4614157&_gl=1*kyepix*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5ODUwNzExMy40NC4xLjE2OTg1MDg1MjYuMTMuMC4w",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "Prueba de embarazo guía",
+      "title": "Tipos de Test de Embarazo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/x8ultra%2Fx3.JPG?alt=media&token=be5c08aa-7587-46f0-b9c8-91ba111bc018&_gl=1*r9ke99*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5Nzg5MTQ0MS40MC4xLjE2OTc4OTE2ODIuOC4wLjA.",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/tespek%2F3%20Tipos%20de%20Test%20de%20Embarazo.html?alt=media&token=5d1debb2-a147-4d28-b7f5-9948460f623c&_gl=1*cpsxxr*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5ODUwNzExMy40NC4xLjE2OTg1MDg1ODguNTguMC4w",
+      "video": ""
+    },{
+      "id": 4,
+      "category": "Prueba de embarazo guía",
+      "title": "Síntomas del embarazo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/x8ultra%2Fx4.jpg?alt=media&token=16010a7d-a76a-4ced-97a4-877a5d7b69c9&_gl=1*kph975*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5Nzg5MTQ0MS40MC4xLjE2OTc4OTE3MTQuNDAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/tespek%2F4%20S%C3%ADntomas%20del%20embarazo.html?alt=media&token=f754426f-84ce-4e3b-ac4b-8e30b3a4b4b3&_gl=1*hvd0o4*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5ODUwNzExMy40NC4xLjE2OTg1MDg2MTIuMzQuMC4w",
+      "video": ""
+    },{
+      "id": 5,
+      "category": "Prueba de embarazo guía",
+      "title": "Embarazo Saludable",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/x8ultra%2Fx5.jpg?alt=media&token=4766a143-902d-4914-af5d-fda910b4a4c5&_gl=1*stp33p*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5Nzg5MTQ0MS40MC4xLjE2OTc4OTE3NDYuOC4wLjA.",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/tespek%2F5%20Embarazo%20Saludable.html?alt=media&token=ee05061b-bc8c-4400-b961-b75b29f42c6d&_gl=1*1ic68z2*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5ODUwNzExMy40NC4xLjE2OTg1MDg2MjkuMTcuMC4w",
+      "video": ""
+    },{
+      "id": 6,
+      "category": "Prueba de embarazo guía",
+      "title": "Vitaminas del Embarazo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/x8ultra%2Fx6.JPG?alt=media&token=430270f9-6ad1-4489-bddd-7f95b7ded108&_gl=1*vorw2h*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5Nzg5MTQ0MS40MC4xLjE2OTc4OTE3NzIuNDQuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/tespek%2F6%20Vitaminas%20del%20Embarazo.html?alt=media&token=b4f852f6-c874-42f2-b699-cfe49eeec981&_gl=1*qo1ljy*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5ODUwNzExMy40NC4xLjE2OTg1MDg2NDguNjAuMC4w",
+      "video": ""
+    },{
+      "id": 7,
+      "category": "Prueba de embarazo guía",
+      "title": "Métodos Caseros para Predecir el Sexo del Bebé",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/x8ultra%2Fx7.JPG?alt=media&token=ec72df78-db4a-4248-ac12-375df165fd93&_gl=1*5kejhb*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5Nzg5MTQ0MS40MC4xLjE2OTc4OTE4MDAuMTYuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/tespek%2F7%20M%C3%A9todos%20Caseros%20para%20Predecir%20el%20Sexo%20del%20Beb%C3%A9.html?alt=media&token=0da2bce3-0af5-4ea0-ab16-b256eb14f0fe&_gl=1*15wc6al*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5ODUwNzExMy40NC4xLjE2OTg1MDkwMjUuNTcuMC4w",
+      "video": ""
+    },{
+      "id": 8,
+      "category": "Prueba de embarazo guía",
+      "title": "Los Nombres más Populares de Bebés",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/x8ultra%2Fx8.jpg?alt=media&token=f384f9ba-b376-4b01-aa05-95dac54b6a50&_gl=1*11kxny5*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5Nzg5MTQ0MS40MC4xLjE2OTc4OTE4MzIuNDUuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/tespek%2F8%20Los%20Nombres%20m%C3%A1s%20Populares%20de%20Beb%C3%A9s.html?alt=media&token=97c1d7dc-82d2-46cd-baf5-cf58edd3cc6c&_gl=1*7cv9bc*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5ODUwNzExMy40NC4xLjE2OTg1MDkwNDMuMzkuMC4w",
+      "video": ""
+    }
+	
+  ],
+  "more_apps": [
+    
+  ]
+}
